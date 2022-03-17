@@ -1,0 +1,10 @@
+Bill Id: 1
+
+IdClient: 1
+Name: Remus
+Email: remusache@gmail.com
+Address: Salonta
+
+Product: PlayStation 5
+Quantity: 1
+Total price: 500$

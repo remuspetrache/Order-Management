@@ -1,0 +1,10 @@
+Bill Id: 2
+
+IdClient: 4
+Name: Flavius
+Email: random@yahoo.uk
+Address: Berlin
+
+Product: Google Nest Mini
+Quantity: 5
+Total price: 245$
